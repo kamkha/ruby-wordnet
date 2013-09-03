@@ -3,4 +3,3 @@ sequel -v3.38.0
 sqlite3 -v1.3.6
 loggability -v0.5.0
 simplecov -v0.6.4
-
